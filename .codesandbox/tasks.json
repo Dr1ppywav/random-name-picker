@@ -5,8 +5,8 @@
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
   "tasks": {
     "Stuart": {
-      "name": "Stuart",
-      "command": "Stuart",
+      "name": "start",
+      "command": "start",
       "runAtStart": true
     }
   }
